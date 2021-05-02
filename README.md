@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arivug
-- 👀 I’m interested in R, Julia and SPSS for applied Statistics/
+- 👀 I’m interested in R, Julia and SPSS for applied Statistics.
 - 🌱 I’m currently learning Julia
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
